@@ -3,4 +3,4 @@ As a seasoned Front-End developer, I specialize in crafting captivating and dyna
 
 
 
-JavaScript, TypeScript, React.js, Redux.js, Redux Toolkit.js, Redux Saga, React Router, Styled-Components, Material-UI (MUI), Axios, HTML5, CSS3, Sass (SCSS), Git, Figma, RESTful APIs, npm, Yarn, Webpack, ESLint, Chrome DevTools, VSCode, React DevTools, Redux DevTools
+JavaScript, TypeScript, React.js, Redux.js, Redux Toolkit.js, Redux Saga, React Router, Styled-Components, Material-UI (MUI), Grommet | Grommet Icons, Axios, HTML5, CSS3, Sass (SCSS), Git, Figma, RESTful APIs, npm, Yarn, Webpack, ESLint, Chrome DevTools, VSCode, React DevTools, Redux DevTools
