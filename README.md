@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name Roman Chaban 👋
 As a seasoned Front-End developer, I specialize in crafting captivating and dynamic user interfaces. My expertise spans across a range of technologies including React, Redux, TypeScript, and JavaScript, empowering me to develop resilient and scalable applications. I am committed to upholding code cleanliness and maintainability as core principles in all my projects. Proficient in HTML5 and CSS3, I utilize Sass to streamline styling while adhering rigorously to the BEM methodology, ensuring a meticulously structured and organized codebase.
 
 
