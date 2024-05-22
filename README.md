@@ -20,4 +20,4 @@ Basics:
 ESLint,  VSCode, Chrome DevTools,
 React DevTools, Redux DevTools
 
-# Foreign Language: ENGLISH
+# Foreign Language: ENGLISH (Intermediate)
