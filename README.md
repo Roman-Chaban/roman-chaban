@@ -35,7 +35,7 @@ Styled-Components,  Grommet,  MUI
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roman&show_icons=true&theme=radical" alt="Roman Chaban GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=RomanChaban&show_icons=true&theme=radical" alt="Roman Chaban GitHub stats" />
 </p>
 
 ---
