@@ -3,7 +3,8 @@ As a seasoned Front-End developer, I specialize in crafting captivating and dyna
 
 # About my Skills
 Programming Languages: 
-JavaScript(ES6+),  TypeScript
+JavaScript(ES6+) ![js_5968292](https://github.com/Chaban1001/Chaban1001/assets/137433410/d7632be5-75b7-4446-bd97-790f936c654b)
+,  TypeScript
 Frameworks & Libraries: 
 Next.js,  React.js, Redux.js,  Redux Saga,
 Redux Toolkit.js,  React Router, Axios,
