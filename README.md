@@ -3,5 +3,5 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,sass,next,react&theme=light,typescript,redux,npm,yarn,webpack,figma,styledcomponents,materialui,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,sass,next,react,typescript,redux,npm,yarn,webpack,figma,styledcomponents,materialui,postman)](https://skillicons.dev)
 
