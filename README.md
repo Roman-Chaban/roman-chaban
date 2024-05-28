@@ -6,5 +6,5 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/chaban1001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chaban1001" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,sassmreact,typescript, redux, react-router)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,sassmreact,typescript,redux)](https://skillicons.dev)
 
