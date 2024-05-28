@@ -5,8 +5,8 @@ As a seasoned Front-End developer, I specialize in crafting captivating and dyna
 ![icons8-css](https://github.com/Chaban1001/Chaban1001/assets/137433410/9321ec34-2f6c-436e-b464-e792f51df06b)
 ![icons8-js](https://github.com/Chaban1001/Chaban1001/assets/137433410/8c19afc3-d964-4eb7-805f-f3ed3a74b3fc)
 ![icons8-typescript](https://github.com/Chaban1001/Chaban1001/assets/137433410/b9b0d40b-1402-47d1-8603-9504613ff87d)
-![react-svgrepo-com](https://github.com/Chaban1001/Chaban1001/assets/137433410/666e02e0-6da2-42b1-96a9-a45362603c18)
-![21324118651551942642](https://github.com/Chaban1001/Chaban1001/assets/137433410/841c43d4-8093-40a6-80f7-307d8556adbb)
+![21324118651551942642 (1)](https://github.com/Chaban1001/Chaban1001/assets/137433410/83848a5d-9118-411f-b5c0-4f28332423e4)
+
 
 # About my Skills
 Programming Languages: 
