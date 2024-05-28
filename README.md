@@ -3,6 +3,7 @@ As a seasoned Front-End developer, I specialize in crafting captivating and dyna
 
 # About my Skills
 ![icons8-js](https://github.com/Chaban1001/Chaban1001/assets/137433410/8c19afc3-d964-4eb7-805f-f3ed3a74b3fc)
+![icons8-typescript](https://github.com/Chaban1001/Chaban1001/assets/137433410/b9b0d40b-1402-47d1-8603-9504613ff87d)
 Programming Languages: 
 JavaScript ,TypeScript
 Frameworks & Libraries: 
