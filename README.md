@@ -33,13 +33,6 @@ Styled-Components,  Grommet,  MUI
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RomanChaban&show_icons=true&theme=radical" alt="Roman Chaban GitHub stats" />
-</p>
-
----
-
 ### 📫 How to Reach Me
 - **LinkedIn**: [Roman Chaban](https://www.linkedin.com/in/chaban1001/)
 - **Email**: roman.chaban1001@gmmail.com
