@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone 👋, I'm Roman Chaban</h1>
+<h1 align="center">About my Profile:</h1>
 <h3 align="center">Seasoned Front-End Developer Specializing in Crafting Captivating and Dynamic User Interfaces</h3>
 
 <p align="center">
