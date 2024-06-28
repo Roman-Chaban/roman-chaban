@@ -1,4 +1,4 @@
-<h1 align="center">About my Profile:</h1>
+<h1 align="center">Hello dear person , I'm Roman Chaban | Front-End Developer, nice to meet you.</h1>
 <h3 align="center">Seasoned Front-End Developer Specializing in Crafting Captivating and Dynamic User Interfaces</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@ As a seasoned Front-End developer, I specialize in crafting captivating and dyna
 - **Frameworks & Libraries**: Next.js,  React.js, Redux.js,  Redux Saga,
 Redux Toolkit.js,  React Router, Axios,
 Styled-Components,  Grommet,  MUI
-- **Web Technologies**: HTML5,  CSS3,  SASS(SCSS)
+- **Web Technologies**: HTML5,  CSS3,  SASS(SCSS), SCSS.modules,
 - **Version Control Systems**: GIT
 - **PSD to HTML**: Figma
 - **Core technologies**: REST API,  Browser API
