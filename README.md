@@ -36,7 +36,7 @@ Styled-Components,  Grommet,  MUI
 ### 📫 How to Reach Me
 - **LinkedIn**: [Roman Chaban](https://www.linkedin.com/in/chaban1001/)
 - **Email**: roman.chaban1001@gmmail.com
-- **Portfolio**: ([https://chaban1001.com](https://github.com/Chaban1001?tab=repositories))
+- **Portfolio**: ([https://chaban1001.com](https://github.com/roman-chaban?tab=repositories))
 
 ---
 
