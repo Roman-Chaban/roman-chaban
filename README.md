@@ -43,24 +43,16 @@ I love solving complex problems and continuously learning new technologies. When
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roman-chaban&show_icons=true&theme=radical" alt="Roman Chaban's GitHub Stats" />
-</p>
-
----
-
 ### 🏆 Top Repositories
 <p align="center">
-  <a href="https://github.com/roman-chaban/repository-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roman-chaban&repo=repository-name&theme=radical" alt="Top Repository" />
+  <a href="https://github.com/roman-chaban/Clothings-Store">
   </a>
 </p>
 
 ---
 
 ### 🚀 Projects
-- **[iMarketplace]([https://roman-chaban.github.io/iMarketplace/])**
+- **[iMarketplace](https://roman-chaban.github.io/iMarketplace/)**
   
 - **[Clothings-Store](https://clothing-store-tau-drab.vercel.app/)**
 
