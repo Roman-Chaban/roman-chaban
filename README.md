@@ -60,12 +60,19 @@ I love solving complex problems and continuously learning new technologies. When
 ---
 
 ### 🚀 Projects
-- **[Project Name](https://github.com/roman-chaban/project-name)**: Brief description of what the project is about and the technologies used.
+- **[iMarketplace]([https://roman-chaban.github.io/iMarketplace/])**
+  
+- **[Clothings-Store](https://clothing-store-tau-drab.vercel.app/)**
 
----
+- **[Mixed-Mart](https://tech-wave-one.vercel.app/)**
+
+- **[MetaCards](https://nft-project-rosy.vercel.app/)**
+
+Feel free to explore these projects and many more on my [GitHub profile](https://github.com/roman-chaban?tab=repositories).
+
 
 ### 📝 Latest Blog Posts
-- **[Blog Post Title](https://your-blog-link.com)**: A brief summary of the blog post to entice readers to click and read more.
+- **[Blog Post Title](https://github.com/roman-chaban?tab=repositories)**: A brief summary of the blog post to entice readers to click and read more.
 
 ---
 
