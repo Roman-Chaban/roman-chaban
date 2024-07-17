@@ -1,4 +1,4 @@
-<h1 align="center">Hello dear person , I'm Roman Chaban | Front-End Developer, nice to meet you.</h1>
+<h1 align="center">Hello Dear Person, I'm Roman Chaban | Front-End Developer, Nice to Meet You</h1>
 <h3 align="center">Seasoned Front-End Developer Specializing in Crafting Captivating and Dynamic User Interfaces</h3>
 
 <p align="center">
@@ -8,21 +8,19 @@
 ---
 
 ### 🧑‍💻 About Me
-As a seasoned Front-End developer, I specialize in crafting captivating and dynamic user interfaces. My expertise spans across a range of technologies including Next.js, React, Redux, TypeScript, and JavaScript, empowering me to develop resilient and scalable applications. I am committed to upholding code cleanliness and maintainability as core principles in all my projects. Proficient in HTML5 and CSS3, I utilize Sass to streamline styling while adhering rigorously to the BEM methodology, ensuring a meticulously structured and organized codebase.
+As a seasoned Front-End Developer, I specialize in crafting captivating and dynamic user interfaces. My expertise spans across a range of technologies including Next.js, React, Redux, TypeScript, and JavaScript, empowering me to develop resilient and scalable applications. I am committed to upholding code cleanliness and maintainability as core principles in all my projects. Proficient in HTML5 and CSS3, I utilize Sass to streamline styling while adhering rigorously to the BEM methodology, ensuring a meticulously structured and organized codebase.
 
 ---
 
 ### 🛠️ Technologies & Tools
-- **Programming Languages**: JavaScript(ES6+), TypeScript
-- **Frameworks & Libraries**: Next.js,  React.js, Redux.js,  Redux Saga,
-Redux Toolkit.js,  React Router, Axios,
-Styled-Components,  Grommet,  MUI
-- **Web Technologies**: HTML5,  CSS3,  SASS(SCSS), SCSS.modules,
+- **Programming Languages**: JavaScript (ES6+), TypeScript
+- **Frameworks & Libraries**: Next.js, React.js, Redux.js, Redux Saga, Redux Toolkit.js, React Router, Axios, Styled-Components, Grommet, MUI
+- **Web Technologies**: HTML5, CSS3, SASS (SCSS), SCSS modules
 - **Version Control Systems**: GIT
-- **PSD to HTML**: Figma
-- **Core technologies**: REST API,  Browser API
+- **Design Tools**: Figma
+- **Core Technologies**: REST API, Browser API
 - **Package Managers**: npm, Yarn
-- **Packer**: Webpack
+- **Bundlers**: Webpack
 
 ---
 
@@ -35,8 +33,8 @@ Styled-Components,  Grommet,  MUI
 
 ### 📫 How to Reach Me
 - **LinkedIn**: [Roman Chaban](https://www.linkedin.com/in/chaban1001/)
-- **Email**: roman.chaban1001@gmmail.com
-- **Portfolio**: ([https://chaban1001.com](https://github.com/roman-chaban?tab=repositories))
+- **Email**: [roman.chaban1001@gmail.com](mailto:roman.chaban1001@gmail.com)
+- **Portfolio**: [Roman Chaban](https://github.com/roman-chaban?tab=repositories)
 
 ---
 
@@ -44,3 +42,31 @@ Styled-Components,  Grommet,  MUI
 I love solving complex problems and continuously learning new technologies. When I'm not coding, I enjoy exploring the great outdoors and capturing nature's beauty through photography.
 
 ---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roman-chaban&show_icons=true&theme=radical" alt="Roman Chaban's GitHub Stats" />
+</p>
+
+---
+
+### 🏆 Top Repositories
+<p align="center">
+  <a href="https://github.com/roman-chaban/repository-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roman-chaban&repo=repository-name&theme=radical" alt="Top Repository" />
+  </a>
+</p>
+
+---
+
+### 🚀 Projects
+- **[Project Name](https://github.com/roman-chaban/project-name)**: Brief description of what the project is about and the technologies used.
+
+---
+
+### 📝 Latest Blog Posts
+- **[Blog Post Title](https://your-blog-link.com)**: A brief summary of the blog post to entice readers to click and read more.
+
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chaban1001/) or check out my [Portfolio](https://github.com/roman-chaban?tab=repositories) to see my work!
