@@ -2,7 +2,8 @@
 <h3 align="center">Seasoned Front-End Developer Specializing in Crafting Captivating and Dynamic User Interfaces</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,sass,next,https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png,typescript,redux,npm,yarn,webpack,figma,styledcomponents,materialui,postman,vscode" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,sass,next,,typescript,redux,npm,yarn,webpack,figma,styledcomponents,materialui,postman,vscode" alt="My Skills" />
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
 </p>
 
 ---
