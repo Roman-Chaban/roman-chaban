@@ -60,6 +60,8 @@ I love solving complex problems and continuously learning new technologies. When
 
 - **[MetaCards](https://nft-project-rosy.vercel.app/)**
 
+- **[Tic_Tac_Toe_Game](https://roman-chaban.github.io/Tic_Tac_Toe_Game/)** 
+
 Feel free to explore these projects and many more on my [GitHub profile](https://github.com/roman-chaban?tab=repositories).
 
 
