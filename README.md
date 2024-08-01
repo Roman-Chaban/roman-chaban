@@ -43,15 +43,6 @@ I love solving complex problems and staying updated with new technologies. Outsi
 
 ---
 
-### 🏆 Featured Repositories
-<p align="center">
-  <a href="https://github.com/roman-chaban/Clothings-Store">
-    <img src="https://img.shields.io/github/stars/roman-chaban/Clothings-Store?style=social" alt="Clothings-Store Stars"/>
-  </a>
-</p>
-
----
-
 ### 🚀 Projects
 - **[iMarketplace](https://roman-chaban.github.io/iMarketplace/)** - An online marketplace with a sleek interface.
 - **[Clothings-Store](https://clothing-store-tau-drab.vercel.app/)** - A stylish clothing store showcasing modern design.
