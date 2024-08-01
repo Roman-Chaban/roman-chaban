@@ -1,5 +1,5 @@
-<h1 align="center">Hello Dear Person, I'm Roman Chaban | Front-End Developer, Nice to Meet You</h1>
-<h3 align="center">Seasoned Front-End Developer Specializing in Crafting Captivating and Dynamic User Interfaces</h3>
+<h1 align="center">Hello! I'm Roman Chaban</h1>
+<h3 align="center">Front-End Developer | Crafting Engaging and Dynamic User Interfaces</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,sass,next,react,typescript,redux,npm,yarn,webpack,figma,styledcomponents,materialui,postman,vscode" alt="My Skills" />
@@ -8,69 +8,63 @@
 ---
 
 ### 🧑‍💻 About Me
-As a seasoned Front-End Developer, I specialize in crafting captivating and dynamic user interfaces. My expertise spans across a range of technologies including Next.js, React, Redux, TypeScript, and JavaScript, empowering me to develop resilient and scalable applications. I am committed to upholding code cleanliness and maintainability as core principles in all my projects. Proficient in HTML5 and CSS3, I utilize Sass to streamline styling while adhering rigorously to the BEM methodology, ensuring a meticulously structured and organized codebase.
+I'm a seasoned Front-End Developer with a passion for creating engaging and dynamic user interfaces. My expertise encompasses Next.js, React, Redux, TypeScript, and JavaScript, allowing me to build robust and scalable applications. I prioritize clean and maintainable code, leveraging HTML5, CSS3, and Sass for effective styling. My approach is guided by the BEM methodology to ensure a well-structured and organized codebase.
 
 ---
 
 ### 🛠️ Technologies & Tools
-- **Programming Languages**: JavaScript (ES6+), TypeScript
+- **Languages**: JavaScript (ES6+), TypeScript
 - **Frameworks & Libraries**: Next.js, React.js, Redux.js, Redux Saga, Redux Toolkit.js, React Router, Axios, Styled-Components, Grommet, MUI
 - **Web Technologies**: HTML5, CSS3, SASS (SCSS), SCSS modules
-- **Version Control Systems**: GIT
+- **Version Control**: GIT
 - **Design Tools**: Figma
-- **Core Technologies**: REST API, Browser API
+- **APIs**: REST API, Browser API
 - **Package Managers**: npm, Yarn
 - **Bundlers**: Webpack
 
 ---
 
-### 🌱 What I'm Currently Learning
+### 🌱 Currently Learning
 - Advanced TypeScript
 - Performance Optimization in React Applications
 - Server-Side Rendering with Next.js
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Connect with Me
 - **LinkedIn**: [Roman Chaban](https://www.linkedin.com/in/chaban1001/)
 - **Email**: [roman.chaban1001@gmail.com](mailto:roman.chaban1001@gmail.com)
-- **Portfolio**: [Roman Chaban](https://github.com/roman-chaban?tab=repositories)
+- **Portfolio**: [GitHub Profile](https://github.com/roman-chaban?tab=repositories)
 
 ---
 
 ### ⚡ Fun Fact
-I love solving complex problems and continuously learning new technologies. When I'm not coding, I enjoy exploring the great outdoors and capturing nature's beauty through photography.
+I love solving complex problems and staying updated with new technologies. Outside of coding, I enjoy exploring nature and capturing its beauty through photography.
 
 ---
 
-### 🏆 Top Repositories
+### 🏆 Featured Repositories
 <p align="center">
   <a href="https://github.com/roman-chaban/Clothings-Store">
+    <img src="https://img.shields.io/github/stars/roman-chaban/Clothings-Store?style=social" alt="Clothings-Store Stars"/>
   </a>
 </p>
 
 ---
 
 ### 🚀 Projects
-- **[iMarketplace](https://roman-chaban.github.io/iMarketplace/)**
-  
-- **[Clothings-Store](https://clothing-store-tau-drab.vercel.app/)**
+- **[iMarketplace](https://roman-chaban.github.io/iMarketplace/)** - An online marketplace with a sleek interface.
+- **[Clothings-Store](https://clothing-store-tau-drab.vercel.app/)** - A stylish clothing store showcasing modern design.
+- **[Mixed-Mart](https://tech-wave-one.vercel.app/)** - A versatile shopping platform.
+- **[MetaCards](https://nft-project-rosy.vercel.app/)** - A project showcasing NFT card designs.
+- **[Tic_Tac_Toe_Game](https://roman-chaban.github.io/Tic_Tac_Toe_Game/)** - A classic Tic Tac Toe game with a modern twist.
+- **[Laoyut_Home_Services](https://roman-chaban.github.io/Layot-Home-Services/)** - A home services platform with user-friendly features.
 
-- **[Mixed-Mart](https://tech-wave-one.vercel.app/)**
-
-- **[MetaCards](https://nft-project-rosy.vercel.app/)**
-
-- **[Tic_Tac_Toe_Game](https://roman-chaban.github.io/Tic_Tac_Toe_Game/)**
-
-- **[Laoyut_Home_Services](https://roman-chaban.github.io/Layot-Home-Services/)**
-
-
-Feel free to explore these projects and many more on my [GitHub profile](https://github.com/roman-chaban?tab=repositories).
-
-
-### 📝 Latest Blog Posts
-- **[Blog Post Title](https://github.com/roman-chaban?tab=repositories)**: A brief summary of the blog post to entice readers to click and read more.
+Explore more on my [GitHub profile](https://github.com/roman-chaban?tab=repositories).
 
 ---
+
+### 📝 Latest Blog Posts
+- **[Blog Post Title](https://github.com/roman-chaban?tab=repositories)**: A brief summary to entice readers to click and read more.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chaban1001/) or check out my [Portfolio](https://github.com/roman-chaban?tab=repositories) to see my work!
