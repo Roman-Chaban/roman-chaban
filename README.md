@@ -45,6 +45,7 @@ I love solving complex problems and staying updated with new technologies. Outsi
 
 ### 🚀 Projects
 - **[iMarketplace](https://roman-chaban.github.io/iMarketplace/)** - An online marketplace with a sleek interface.
+- **[Furniro](https://furniro-wheat.vercel.app/)** - Furniro is an innovative platform aimed at transforming the furniture shopping experience through cutting-edge technology and user-centered design.
 - **[Clothings-Store](https://clothing-store-tau-drab.vercel.app/)** - A stylish clothing store showcasing modern design.
 - **[Mixed-Mart](https://tech-wave-one.vercel.app/)** - A versatile shopping platform.
 - **[MetaCards](https://nft-project-rosy.vercel.app/)** - A project showcasing NFT card designs.
