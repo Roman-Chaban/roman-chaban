@@ -8,11 +8,11 @@
 ---
 
 ### 🧑‍💻 About Me
-As a seasoned Front-End developer, I excel in creating dynamic user interfaces using <strong> Next.js, React,
-Redux, TypeScript, and JavaScript.</strong> I build resilient, scalable applications with a strong focus on clean,
+As a <strong>seasoned Front-End developer,</strong> I excel in creating <strong>dynamic user interfaces using Next.js, React,
+Redux, TypeScript, and JavaScript</strong>. I build resilient, scalable applications with a strong focus on clean,
 maintainable code. Proficient in HTML5, CSS3, and Sass, I adhere to the BEM methodology for a wellorganized codebase.
 
-In addition to my technical skills, I possess strong soft skills. I communicate effectively with teams and
+In addition to my technical skills, I possess <strong>strong soft skills</strong>. I communicate effectively with teams and
 clients, ensuring successful project delivery. My critical thinking ability allows me to analyze complex
 issues and find optimal solutions that address both technical and business needs.
 
@@ -24,7 +24,7 @@ issues and find optimal solutions that address both technical and business needs
 - **Web Technologies**: HTML5, CSS3, SASS (SCSS), SCSS modules
 - **Version Control**: GIT
 - **Design Tools**: Figma
-- **APIs**: REST API, Browser API
+- **APIs**: REST API, FETCH API, Browser API
 - **Package Managers**: npm, Yarn
 - **Bundlers**: Webpack
 
