@@ -27,6 +27,7 @@ issues and find optimal solutions that address both technical and business needs
 - **APIs**: REST API, FETCH API, Browser API
 - **Package Managers**: npm, Yarn
 - **Bundlers**: Webpack
+- **Testing**: JEST
 
 ---
 
