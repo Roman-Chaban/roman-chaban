@@ -26,7 +26,7 @@ issues and find optimal solutions that address both technical and business needs
 - **Design Tools**: Figma
 - **APIs**: REST API, FETCH API, Browser API
 - **Package Managers**: npm, Yarn
-- **Bundlers**: Webpack
+- **Bundlers**: Webpack, Vite
 - **Testing**: JEST
 
 ---
