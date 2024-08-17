@@ -7,7 +7,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 💻 About Me
 As a <strong>seasoned Front-End developer,</strong> I excel in creating <strong>dynamic user interfaces using Next.js, React,
 Redux, TypeScript, and JavaScript</strong>. I build resilient, scalable applications with a strong focus on clean,
 maintainable code. Proficient in HTML5, CSS3, and Sass, I adhere to the BEM methodology for a wellorganized codebase.
