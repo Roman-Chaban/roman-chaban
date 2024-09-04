@@ -20,7 +20,7 @@ issues</strong> and find <strong>optimal</strong> solutions that address both <s
 
 ### 🛠️ Technologies & Tools
 - **Languages**: JavaScript (ES6+), TypeScript
-- **Frameworks & Libraries**: Next.js, React.js, Redux.js, Redux Saga, Redux Toolkit.js, React Router, Axios, Styled-Components, Grommet, MUI
+- **Frameworks & Libraries**: Next.js, React.js, Redux.js, Redux Saga, Redux Toolkit.js, React Router, React Hook Form, Axios, Styled-Components, Grommet, MUI
 - **Web Technologies**: HTML5, CSS3, SASS (SCSS), SCSS modules
 - **Version Control**: GIT
 - **Design Tools**: Figma
