@@ -57,7 +57,8 @@ I love solving complex problems and staying updated with new technologies. Outsi
 - **[MetaCards](https://nft-project-rosy.vercel.app/)** - A project showcasing NFT card designs.
 - **[Tic_Tac_Toe_Game](https://roman-chaban.github.io/Tic_Tac_Toe_Game/)** - A classic Tic Tac Toe game with a modern twist.
 - **[Laoyut_Home_Services](https://roman-chaban.github.io/Layot-Home-Services/)** - A home services platform with user-friendly features.
--- **[DreamSpace-Interiors](https://dream-space-interiors.vercel.app/)** - Welcome to DreamSpace-Interiors, where we turn your interior design dreams into reality. 
+- **[DreamSpace-Interiors](https://dream-space-interiors.vercel.app/)** - Welcome to DreamSpace-Interiors, where we turn your interior design dreams into reality.
+  
 Explore more on my [GitHub profile](https://github.com/roman-chaban?tab=repositories).
 
 ---
