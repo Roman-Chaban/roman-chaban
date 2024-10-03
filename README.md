@@ -1,9 +1,5 @@
 <h1 style="font-size48px;">Roman Chaban</h1>
 
-![Daft Punktocat](https://octodex.github.com/images/daftpunktocat-guy.gif)
-
-
-
 As a **seasoned Front-End Developer**, I specialize in building **scalable** and **resilient** web applications, leveraging technologies such as **Next.js**, **React**, and **TypeScript**. My deep understanding of modern web technologies allows me to create **engaging, high-performance user interfaces**. I am committed to writing **clean, maintainable code**, adhering to best practices like **BEM methodology** in **HTML5**, **CSS3**, and **Sass** to ensure structured, organized codebases.
 
 I excel in **collaborative environments** and maintain strong communication with **clients** and **team members** to ensure smooth project execution. My ability to **analyze complex challenges** and provide **technical solutions** that align with business goals sets me apart in delivering projects that drive value.
