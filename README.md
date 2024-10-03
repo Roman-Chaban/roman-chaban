@@ -1,5 +1,4 @@
 <h1 align="center">Roman Chaban</h1>
-<h3 align="center">Front-End Developer | Crafting Dynamic & User-Centric Interfaces</h3>
 
 ## 💼 About Me
 
