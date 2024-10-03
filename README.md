@@ -1,69 +1,101 @@
-<h1 align="center">Hello everyone! I'm Roman Chaban</h1>
-<h3 align="center">Front-End Developer | Crafting Engaging and Dynamic User Interfaces</h3>
+<h1 align="center">Roman Chaban</h1>
+<h3 align="center">Front-End Developer | Crafting Dynamic & User-Centric Interfaces</h3>
 
 <p align="center">
-  <img style='width: 50' src="https://skillicons.dev/icons?i=html,css,js,git,sass,next,react,typescript,redux,npm,yarn,webpack,vite,figma,styledcomponents,materialui,postman,vscode" alt="My Skills" />
+  <img style="width: 100px;" src="https://skillicons.dev/icons?i=html,css,js,git,sass,next,react,typescript,redux,npm,yarn,webpack,vite,figma,styledcomponents,materialui,postman,vscode" alt="Technologies & Tools" />
 </p>
 
 ---
 
-### 💻 About Me
-As a <strong>seasoned Front-End developer,</strong> I excel in creating <strong>dynamic user interfaces using Next.js, React,
-Redux, TypeScript, and JavaScript</strong>. I build resilient, scalable applications with a strong focus on clean,
-maintainable code. Proficient in HTML5, CSS3, and Sass, I adhere to the BEM methodology for a wellorganized codebase.
+## 💼 About Me
 
-In addition to my technical skills, I possess <strong>strong soft skills</strong>. <strong>I communicate effectively</strong> with <strong>teams</strong> and
-<strong>clients</strong>, ensuring <strong>successful project delivery.</strong> My <strong>critical thinking</strong> ability allows me to analyze <strong>complex
-issues</strong> and find <strong>optimal</strong> solutions that address both <strong>technical</strong> and <strong>business needs</strong>.
+As a **seasoned Front-End Developer**, I specialize in building **scalable** and **resilient** web applications, leveraging technologies such as **Next.js**, **React**, and **TypeScript**. My deep understanding of modern web technologies allows me to create **engaging, high-performance user interfaces**. I am committed to writing **clean, maintainable code**, adhering to best practices like **BEM methodology** in **HTML5**, **CSS3**, and **Sass** to ensure structured, organized codebases.
+
+I excel in **collaborative environments** and maintain strong communication with **clients** and **team members** to ensure smooth project execution. My ability to **analyze complex challenges** and provide **technical solutions** that align with business goals sets me apart in delivering projects that drive value.
 
 ---
 
-### 🛠️ Technologies & Tools
-- **Languages**: JavaScript (ES6+), TypeScript
-- **Frameworks & Libraries**: Next.js, React.js, Redux.js, Redux Saga, Redux Toolkit.js, React Router, React Hook Form, Axios, Styled-Components, Grommet, MUI
-- **Web Technologies**: HTML5, CSS3, SASS (SCSS), SCSS modules
-- **Version Control**: GIT
-- **Design Tools**: Figma
-- **APIs**: REST API, FETCH API, Browser API
-- **Package Managers**: npm, Yarn
-- **Bundlers**: Webpack, Vite
+## 🛠️ Technologies & Tools
+
+- **Languages**: 
+  - JavaScript (ES6+)
+  - TypeScript
+- **Frameworks & Libraries**: 
+  - Next.js
+  - React.js
+  - Redux (Redux Saga, Redux Toolkit)
+  - React Router
+  - React Hook Form
+- **UI/UX Libraries**: 
+  - Material UI (MUI)
+  - Styled-Components
+  - Grommet
+- **Web Technologies**: 
+  - HTML5
+  - CSS3
+  - SASS (SCSS)
+  - SCSS Modules
+  - Axios
+- **APIs**: 
+  - REST API
+  - Browser API
+  - Fetch API
+- **Version Control**: 
+  - Git
+  - GitHub
+- **Build Tools**: 
+  - Webpack
+  - Vite
+- **Package Managers**: 
+  - npm
+  - Yarn
+- **Design & Prototyping**: 
+  - Figma
+- **Testing & Debugging**: 
+  - Jest
+  - React Testing Library
+  - Postman
+- **IDEs**: 
+  - Visual Studio Code
 
 ---
 
-### 🌱 Currently Learning
-- Advanced TypeScript
-- Performance Optimization in React Applications
-- Server-Side Rendering with Next.js
+## 🌱 Currently Learning
+
+- **Advanced TypeScript**: Deepening knowledge of type safety, generics, and advanced TypeScript patterns.
+- **Performance Optimization in React**: Exploring strategies for **code splitting**, **lazy loading**, and **memoization** to enhance application performance.
+- **Server-Side Rendering with Next.js**: Focusing on **SSR** to build SEO-optimized and performant applications.
 
 ---
 
-### 📫 Connect with Me
+## 🚀 Projects
+
+- **[iMarketplace](https://roman-chaban.github.io/iMarketplace/)**: A modern online marketplace featuring **responsive design** and intuitive user experience.
+- **[Furniro](https://furniro-wheat.vercel.app/)**: Revolutionizing the furniture shopping experience with a sleek, user-centered design powered by **React** and **Next.js**.
+- **[Clothings-Store](https://clothing-store-tau-drab.vercel.app/)**: A fully-responsive, modern clothing eCommerce platform with advanced **React hooks** and **Redux** for state management.
+- **[Mixed-Mart](https://tech-wave-one.vercel.app/)**: A versatile eCommerce platform focused on delivering a smooth, user-friendly shopping experience.
+- **[MetaCards](https://nft-project-rosy.vercel.app/)**: An NFT card showcase, integrating **cutting-edge UI design** with blockchain-inspired visuals.
+- **[Tic Tac Toe Game](https://roman-chaban.github.io/Tic_Tac_Toe_Game/)**: A fun, interactive Tic-Tac-Toe game, demonstrating mastery in **vanilla JavaScript** and **CSS animations**.
+- **[DreamSpace Interiors](https://dream-space-interiors.vercel.app/)**: A beautifully crafted website showcasing interior design solutions, built using **Next.js** and **Styled-Components**.
+
+Explore more on my [GitHub Profile](https://github.com/roman-chaban?tab=repositories).
+
+---
+
+## 📫 Connect with Me
+
 - **LinkedIn**: [Roman Chaban](https://www.linkedin.com/in/chaban1001/)
 - **Email**: [roman.chaban1001@gmail.com](mailto:roman.chaban1001@gmail.com)
-- **Portfolio**: [GitHub Profile](https://github.com/roman-chaban?tab=repositories)
+- **Portfolio**: [GitHub Repositories](https://github.com/roman-chaban?tab=repositories)
 
 ---
 
-### ⚡ Fun Fact
-I love solving complex problems and staying updated with new technologies. Outside of coding, I enjoy exploring nature and capturing its beauty through photography.
+## 📝 Blog Posts
+
+- **[Performance Optimization in React Applications](https://github.com/roman-chaban?tab=repositories)**: A deep dive into optimizing React apps for better user experience and faster load times.
 
 ---
 
-### 🚀 Projects
-- **[iMarketplace](https://roman-chaban.github.io/iMarketplace/)** - An online marketplace with a sleek interface.
-- **[Furniro](https://furniro-wheat.vercel.app/)** - Furniro is an innovative platform aimed at transforming the furniture shopping experience through cutting-edge technology and user-centered design.
-- **[Clothings-Store](https://clothing-store-tau-drab.vercel.app/)** - A stylish clothing store showcasing modern design.
-- **[Mixed-Mart](https://tech-wave-one.vercel.app/)** - A versatile shopping platform.
-- **[MetaCards](https://nft-project-rosy.vercel.app/)** - A project showcasing NFT card designs.
-- **[Tic_Tac_Toe_Game](https://roman-chaban.github.io/Tic_Tac_Toe_Game/)** - A classic Tic Tac Toe game with a modern twist.
-- **[Laoyut_Home_Services](https://roman-chaban.github.io/Layot-Home-Services/)** - A home services platform with user-friendly features.
-- **[DreamSpace-Interiors](https://dream-space-interiors.vercel.app/)** - Welcome to DreamSpace-Interiors, where we turn your interior design dreams into reality.
-  
-Explore more on my [GitHub profile](https://github.com/roman-chaban?tab=repositories).
+## ⚡ Fun Fact
 
----
-
-### 📝 Latest Blog Posts
-- **[Blog Post Title](https://github.com/roman-chaban?tab=repositories)**: A brief summary to entice readers to click and read more.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chaban1001/) or check out my [Portfolio](https://github.com/roman-chaban?tab=repositories) to see my work!
+Beyond coding, I am passionate about **photography** and often spend time exploring nature, capturing its beauty through the lens of my camera.
