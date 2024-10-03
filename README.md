@@ -71,12 +71,11 @@ I excel in **collaborative environments** and maintain strong communication with
 ## 🚀 Projects
 
 - **[iMarketplace](https://roman-chaban.github.io/iMarketplace/)**: A modern online marketplace featuring **responsive design** and intuitive user experience.
-- **[Furniro](https://furniro-wheat.vercel.app/)**: Revolutionizing the furniture shopping experience with a sleek, user-centered design powered by **React** and **Next.js**.
+- **[DreamSpace Interiors](https://dream-space-interiors.vercel.app/)**: A beautifully crafted website showcasing interior design solutions, built using **Next.js** and **Styled-Components**.
 - **[Clothings-Store](https://clothing-store-tau-drab.vercel.app/)**: A fully-responsive, modern clothing eCommerce platform with advanced **React hooks** and **Redux** for state management.
 - **[Mixed-Mart](https://tech-wave-one.vercel.app/)**: A versatile eCommerce platform focused on delivering a smooth, user-friendly shopping experience.
 - **[MetaCards](https://nft-project-rosy.vercel.app/)**: An NFT card showcase, integrating **cutting-edge UI design** with blockchain-inspired visuals.
 - **[Tic Tac Toe Game](https://roman-chaban.github.io/Tic_Tac_Toe_Game/)**: A fun, interactive Tic-Tac-Toe game, demonstrating mastery in **vanilla JavaScript** and **CSS animations**.
-- **[DreamSpace Interiors](https://dream-space-interiors.vercel.app/)**: A beautifully crafted website showcasing interior design solutions, built using **Next.js** and **Styled-Components**.
 
 Explore more on my [GitHub Profile](https://github.com/roman-chaban?tab=repositories).
 
