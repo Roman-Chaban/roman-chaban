@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | Crafting Dynamic & User-Centric Interfaces</h3>
 
 <p align="center">
-  <img style="width: 100px;" src="https://skillicons.dev/icons?i=html,css,js,git,sass,next,react,typescript,redux,npm,yarn,webpack,vite,figma,styledcomponents,materialui,postman,vscode" alt="Technologies & Tools" />
+  <img style="width: 100px;"height='100px' src="https://skillicons.dev/icons?i=html,css,js,git,sass,next,react,typescript,redux,npm,yarn,webpack,vite,figma,styledcomponents,materialui,postman,vscode" alt="Technologies & Tools" />
 </p>
 
 ---
