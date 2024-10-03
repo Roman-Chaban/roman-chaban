@@ -12,14 +12,14 @@ I excel in **collaborative environments** and maintain strong communication with
 ## 🛠️ Technologies & Tools
 
 ### **Languages** 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="70" height="70" />
 </p>
 
 ### **Frameworks & Libraries** 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=next" alt="Next.js" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="70" height="0" />
@@ -27,14 +27,13 @@ I excel in **collaborative environments** and maintain strong communication with
 </p>
 
 ### **UI/UX Libraries** 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled-Components" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=grommet" alt="Grommet" width="70" height="70" />
 </p>
 
 ### **Web Technologies** 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="70" height="70" />
@@ -42,30 +41,30 @@ I excel in **collaborative environments** and maintain strong communication with
 </p>
 
 ### **Version Control** 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="70" height="70" />
 </p>
 
 ### **Build Tools** 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="70" height="70" />
 </p>
 
 ### **Design & Prototyping** 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="70" height="70" />
 </p>
 
 ### **Testing & Debugging** 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="70" height="70" />
 </p>
 
 ### **IDEs** 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="70" height="70" />
 </p>
 
