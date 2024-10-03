@@ -10,9 +10,8 @@ I excel in **collaborative environments** and maintain strong communication with
 ## 🛠️ Technologies & Tools
 ### **Languages** 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="70" height="70" />
+   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="70" height="70" />
 </p>
 
 ### **Frameworks & Libraries** 
@@ -20,7 +19,6 @@ I excel in **collaborative environments** and maintain strong communication with
   <img src="https://skillicons.dev/icons?i=next" alt="Next.js" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="70" height="70" />
 </p>
 
 ### **UI/UX Libraries** 
@@ -34,7 +32,6 @@ I excel in **collaborative environments** and maintain strong communication with
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=axios" alt="Axios" width="70" height="70" />
 </p>
 
 ### **Version Control** 
@@ -56,7 +53,6 @@ I excel in **collaborative environments** and maintain strong communication with
 
 ### **Testing & Debugging** 
 <p>
-  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="70" height="70" />
 </p>
 
