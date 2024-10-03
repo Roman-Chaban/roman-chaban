@@ -1,4 +1,4 @@
-<h1 align="center">Roman Chaban</h1>
+<h1 style="font-size48px;">Roman Chaban</h1>
 
 ## 💼 About Me
 
