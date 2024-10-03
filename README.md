@@ -7,10 +7,7 @@ As a **seasoned Front-End Developer**, I specialize in building **scalable** and
 
 I excel in **collaborative environments** and maintain strong communication with **clients** and **team members** to ensure smooth project execution. My ability to **analyze complex challenges** and provide **technical solutions** that align with business goals sets me apart in delivering projects that drive value.
 
----
-
 ## 🛠️ Technologies & Tools
-
 ### **Languages** 
 <p>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="70" height="70" />
@@ -22,7 +19,7 @@ I excel in **collaborative environments** and maintain strong communication with
 <p>
   <img src="https://skillicons.dev/icons?i=next" alt="Next.js" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="70" height="0" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="70" height="70" />
 </p>
 
