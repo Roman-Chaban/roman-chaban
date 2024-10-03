@@ -1,4 +1,4 @@
-<img width="400" height="400" src="https://octodex.github.com/images/grinchtocat.gif" alt="Grinchtocat" />
+<img width="300" height="300" src="https://octodex.github.com/images/grinchtocat.gif" alt="Grinchtocat" />
 
 
 
