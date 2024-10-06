@@ -1,4 +1,4 @@
-<h1 style="font-size: 48px;">Roman Chaban</h1>
+<h1 style="font-size: 48px;">Hello visitor, I'm Roman, nice to meet you</h1>
 
 As a **seasoned Front-End Developer**, I specialize in building **scalable** and **resilient** web applications, leveraging technologies such as **Next.js**, **React**, and **TypeScript**. My deep understanding of modern web technologies allows me to create **engaging, high-performance user interfaces**. I am committed to writing **clean, maintainable code**, adhering to best practices like **BEM methodology** in **HTML5**, **CSS3**, and **Sass** to ensure structured, organized codebases.
 
