@@ -1,4 +1,4 @@
-<h1 style="font-size: 48px;">Hello visitor, I'm Roman, nice to meet you</h1>
+<h1 style="font-size: 48px;">Roman: Frontend Developer & Open-Source Enthusiast</h1>
 
 As a **seasoned Front-End Developer**, I specialize in building **scalable** and **resilient** web applications, leveraging technologies such as **Next.js**, **React**, and **TypeScript**. My expertise includes:
 
