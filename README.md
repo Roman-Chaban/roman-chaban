@@ -4,6 +4,9 @@ As a **seasoned Front-End Developer**, I specialize in building **scalable** and
 
 I excel in **collaborative environments** and maintain strong communication with **clients** and **team members** to ensure smooth project execution. My ability to **analyze complex challenges** and provide **technical solutions** that align with business goals sets me apart in delivering projects that drive value.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roman-chaban&show_icons=true&theme=default)
+
+
 ## 🛠️ Technologies & Tools
 ### **Languages** 
 <p>
