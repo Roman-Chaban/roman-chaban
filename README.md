@@ -1,62 +1,66 @@
 <h1 style="font-size: 48px;">Hello visitor, I'm Roman, nice to meet you</h1>
 
-As a **seasoned Front-End Developer**, I specialize in building **scalable** and **resilient** web applications, leveraging technologies such as **Next.js**, **React**, and **TypeScript**. My deep understanding of modern web technologies allows me to create **engaging, high-performance user interfaces**. I am committed to writing **clean, maintainable code**, adhering to best practices like **BEM methodology** in **HTML5**, **CSS3**, and **Sass** to ensure structured, organized codebases.
+As a **seasoned Front-End Developer**, I specialize in building **scalable** and **resilient** web applications, leveraging technologies such as **Next.js**, **React**, and **TypeScript**. My expertise includes:
 
-I excel in **collaborative environments** and maintain strong communication with **clients** and **team members** to ensure smooth project execution. My ability to **analyze complex challenges** and provide **technical solutions** that align with business goals sets me apart in delivering projects that drive value.
+- Creating **engaging, high-performance user interfaces**
+- Writing **clean, maintainable code** using **BEM methodology**, **HTML5**, **CSS3**, and **Sass**
+- Collaborating effectively in team environments and maintaining strong communication with **clients** and **team members**
+- Analyzing complex challenges and providing **technical solutions** aligned with business goals
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roman-chaban&show_icons=true&theme=default)
 
-
 ## 🛠️ Technologies & Tools
-### **Languages** 
+
+### **Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="70" height="70" />
-   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="70" height="70" />
 </p>
 
-### **Frameworks & Libraries** 
+### **Frameworks & Libraries**
 <p>
   <img src="https://skillicons.dev/icons?i=next" alt="Next.js" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="70" height="70" />
 </p>
 
-### **UI/UX Libraries** 
+### **UI/UX Libraries**
 <p>
   <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled-Components" width="70" height="70" />
 </p>
 
-### **Web Technologies** 
+### **Web Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="70" height="70" />
 </p>
 
-### **Version Control** 
+### **Version Control**
 <p>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="70" height="70" />
 </p>
 
-### **Build Tools** 
+### **Build Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="70" height="70" />
 </p>
 
-### **Design & Prototyping** 
+### **Design & Prototyping**
 <p>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="70" height="70" />
 </p>
 
-### **Testing & Debugging** 
+### **Testing & Debugging**
 <p>
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="70" height="70" />
 </p>
 
-### **IDEs** 
+### **IDEs**
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="70" height="70" />
 </p>
@@ -89,18 +93,3 @@ Explore more on my [GitHub Profile](https://github.com/roman-chaban?tab=reposito
 - **LinkedIn**: [Roman Chaban](https://www.linkedin.com/in/chaban1001/)
 - **Email**: [roman.chaban1001@gmail.com](mailto:roman.chaban1001@gmail.com)
 - **Portfolio**: [GitHub Repositories](https://github.com/roman-chaban?tab=repositories)
-
----
-
-## 📝 Blog Posts
-
-- **[Performance Optimization in React Applications](https://github.com/roman-chaban?tab=repositories)**: A deep dive into optimizing React apps for better user experience and faster load times.
-
----
-
-## ⚡ Fun Fact
-
-Beyond coding, I am passionate about **photography** and often spend time exploring nature, capturing its beauty through the lens of my camera.
-
----
-
