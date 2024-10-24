@@ -77,6 +77,8 @@ As a **seasoned Front-End Developer**, I specialize in building **scalable** and
 
 ## 🚀 Projects
 
+- **[Workflow_CRM](https://github.com/roman-chaban/Workflow_CRM)**: Workflow CRM is a powerful Customer Relationship Management system designed to streamline sales processes, enhance customer service, and facilitate project management.
+
 - **[iMarketplace](https://roman-chaban.github.io/iMarketplace/)**: A modern online marketplace featuring **responsive design** and intuitive user experience.
 - **[DreamSpace Interiors](https://dream-space-interiors.vercel.app/)**: A beautifully crafted website showcasing interior design solutions, built using **Next.js** and **Styled-Components**.
 - **[Clothings-Store](https://clothing-store-tau-drab.vercel.app/)**: A fully-responsive, modern clothing eCommerce platform with advanced **React hooks** and **Redux** for state management.
