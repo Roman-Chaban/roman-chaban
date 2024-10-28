@@ -50,6 +50,12 @@ As a **seasoned Front-End Developer**, I specialize in building **scalable** and
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="70" height="70" />
 </p>
 
+### **Package Managers**
+<p>
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" width="70" height="70" />
+</p>
+
 ### **Design & Prototyping**
 <p>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="70" height="70" />
