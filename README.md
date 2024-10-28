@@ -14,62 +14,63 @@ As a **seasoned Front-End Developer**, I specialize in building **scalable** and
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript" width="70" height="70" />
 </p>
 
 ### **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=next" alt="Next.js" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="70" height="70" />
-  
- 
+  <img src="https://skillicons.dev/icons?i=next&theme=light" alt="Next.js" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=redux&theme=light" alt="Redux" width="70" height="70" />
+</p>
+
 ### **UI/UX Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled-Components" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=materialui&theme=light" alt="Material UI" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents&theme=light" alt="Styled-Components" width="70" height="70" />
 </p>
 
 ### **Web Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML5" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS3" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=sass&theme=light" alt="Sass" width="70" height="70" />
 </p>
 
 ### **Version Control**
 <p>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="70" height="70" />
 </p>
 
 ### **Build Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=webpack&theme=light" alt="Webpack" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=light" alt="Vite" width="70" height="70" />
 </p>
 
 ### **Package Managers**
 <p>
-  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=npm&theme=light" alt="npm" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=yarn&theme=light" alt="yarn" width="70" height="70" />
 </p>
 
 ### **Design & Prototyping**
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="Figma" width="70" height="70" />
 </p>
 
 ### **Testing & Debugging**
 <p>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=light" alt="Postman" width="70" height="70" />
 </p>
 
 ### **IDEs**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=webstorm&theme=light" alt="Webstorm" width="70" height="70" />
 </p>
+
 
 ---
 
