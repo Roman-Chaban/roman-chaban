@@ -5,7 +5,7 @@ As a **seasoned Front-End Developer**, I specialize in building **scalable** and
 - Creating **engaging, high-performance user interfaces**
 - Writing **clean, maintainable code** using **BEM methodology**, **HTML5**, **CSS3**, and **Sass**
 - Collaborating effectively in team environments and maintaining strong communication with **clients** and **team members**
-- Analyzing complex challenges and providing **technical solutions** aligned with business goals
+- Analyzing complex challenges and providing **technical solutions** aligned with business goals.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roman-chaban&show_icons=true&theme=default)
