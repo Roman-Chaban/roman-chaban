@@ -1,6 +1,6 @@
 <h1 style="font-size: 48px;">Roman: Frontend Developer & Open-Source Enthusiast</h1>
 
-As a **seasoned Front-End Developer**, I specialize in building **scalable** and **resilient** web applications, leveraging technologies such as **Next.js**, **React**, and **TypeScript**. My expertise includes:
+I am a results-driven <strong>Front-End Developer</strong> with proven expertise in crafting <strong>dynamic</strong>, <strong>resilient</strong>, and <strong>scalable web applications</strong>. I specialize in modern technologies like <strong>React.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Redux</strong>, focusing on developing <strong>high-performance user interfaces</strong> that balance <strong>functionality</strong> and <strong>aesthetics</strong>. I am dedicated to writing <strong>clean</strong>, <strong>maintainable code</strong> and prioritizing the <strong>user experience</strong>.
 
 - Creating **engaging, high-performance user interfaces**
 - Writing **clean, maintainable code** using **BEM methodology**, **HTML5**, **CSS3**, and **Sass**
