@@ -22,9 +22,9 @@ I am a results-driven <strong>Front-End Developer</strong> with proven expertise
 <p>
   <img src="https://skillicons.dev/icons?i=next&theme=light" alt="Next.js" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" width="70" height="70" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery" alt="React Query" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=redux&theme=light" alt="Redux" width="70" height="70" />
 </p>
-
 ### **UI/UX Libraries**
 <p>
   <img src="https://skillicons.dev/icons?i=materialui&theme=light" alt="Material UI" width="70" height="70" />
