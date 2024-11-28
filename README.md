@@ -7,9 +7,6 @@ I am a results-driven <strong>Front-End Developer</strong> with proven expertise
 - Collaborating effectively in team environments and maintaining strong communication with **clients** and **team members**
 - Analyzing complex challenges and providing **technical solutions** aligned with business goals.
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roman-chaban&show_icons=true&theme=default)
-
 ## 🛠️ Technologies & Tools
 
 ### **Languages**
@@ -72,6 +69,7 @@ I am a results-driven <strong>Front-End Developer</strong> with proven expertise
   <img src="https://skillicons.dev/icons?i=webstorm&theme=light" alt="Webstorm" width="70" height="70" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roman-chaban&show_icons=true&theme=default)
 
 ---
 
