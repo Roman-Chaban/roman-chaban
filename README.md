@@ -67,6 +67,7 @@ I am a results-driven <strong>Front-End Developer</strong> with proven expertise
 ### **IDEs**
 <p>
   <img src="https://skillicons.dev/icons?i=webstorm&theme=light" alt="Webstorm" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VsCode" width="70" height="70" />
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roman-chaban&show_icons=true&theme=default)
