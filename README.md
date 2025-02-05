@@ -61,8 +61,9 @@ I am a results-driven <strong>Front-End Developer</strong> with proven expertise
 
 ### **Testing & Debugging**
 <p>
-  <img src="https://skillicons.dev/icons?i=postman&theme=light" alt="Postman" width="70" height="70" />
    <img src="https://skillicons.dev/icons?i=jest&theme=light" alt="Jest" width="70" height="70" />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=testinglibrary&theme=dark"  alt="React Testing Library" width="70" height="70"  />
+    <img src="https://skillicons.dev/icons?i=postman&theme=light" alt="Postman" width="70" height="70" />
 </p>
 
 ### **IDEs**
