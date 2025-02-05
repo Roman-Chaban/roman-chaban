@@ -7,6 +7,8 @@ I am a results-driven <strong>Front-End Developer</strong> with proven expertise
 - Collaborating effectively in team environments and maintaining strong communication with **clients** and **team members**
 - Analyzing complex challenges and providing **technical solutions** aligned with business goals.
 
+- <strong>English: Intermediate Level (B1)<strong/>
+
 ## 🛠️ Technologies & Tools
 
 ### **Languages**
