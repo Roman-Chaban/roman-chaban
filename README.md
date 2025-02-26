@@ -1,4 +1,4 @@
-<h1 style="font-size: 48px;">Hello world! 👋🏻 I'm Roman Frontend Developer</h1>
+<h1 style="font-size: 48px;">Hello world! 👋🏻 I'm Roman Frontend Engineer</h1>
 
 I am a results-driven <strong>Front-End Developer</strong> with proven expertise in crafting <strong>dynamic</strong>, <strong>resilient</strong>, and <strong>scalable web applications</strong>. I specialize in modern technologies like <strong>React.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Redux</strong>, focusing on developing <strong>high-performance user interfaces</strong> that balance <strong>functionality</strong> and <strong>aesthetics</strong>. I am dedicated to writing <strong>clean</strong>, <strong>maintainable code</strong> and prioritizing the <strong>user experience</strong>.
 
