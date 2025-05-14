@@ -1,13 +1,28 @@
-<h1 style="font-size: 48px;">Hello world! 👋🏻 I'm Roman Frontend Engineer 🇺🇦</h1>
+# 🌟 Frontend Developer | React.js | Next.js | TypeScript  
 
-I am a results-driven <strong>Front-End Developer</strong> with proven expertise in crafting <strong>dynamic</strong>, <strong>resilient</strong>, and <strong>scalable web applications</strong>. I specialize in modern technologies like <strong>React.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Redux</strong>, focusing on developing <strong>high-performance user interfaces</strong> that balance <strong>functionality</strong> and <strong>aesthetics</strong>. I am dedicated to writing <strong>clean</strong>, <strong>maintainable code</strong> and prioritizing the <strong>user experience</strong>.
+Passionate and results-driven **Frontend Developer** with over a year of experience in building **scalable** and **high-performance web applications** using **React.js**, **Next.js**, and **TypeScript**. I specialize in crafting **intuitive**, **accessible (WCAG 2.1)**, and **responsive user interfaces** that follow **clean code practices (FSD)**.  
 
-- Creating **engaging, high-performance user interfaces**
-- Writing **clean, maintainable code** using **BEM methodology**, **HTML5**, **CSS3**, and **Sass**
-- Collaborating effectively in team environments and maintaining strong communication with **clients** and **team members**
-- Analyzing complex challenges and providing **technical solutions** aligned with business goals.
+I am committed to optimizing performance, enhancing user experience, and maintaining **high code quality** through comprehensive testing (95% coverage). Eager to collaborate within a **product-oriented team** to develop **innovative frontend solutions**.  
 
-- <strong>English: Intermediate Level (B1)<strong/>
+---
+
+### 💡 Key Responsibilities and Achievements:  
+
+- **Performance Optimization:** Developed and implemented strategies for **React.js** and **Next.js** applications, achieving a **25% increase in page load speed** through improved lazy loading and minimizing render-blocking resources.  
+- **API Efficiency:** Collaborated with backend developers to **optimize API requests**, reducing data fetching times by **25%**, resulting in a **smoother user experience**.  
+- **Responsive UI Design:** Transformed **Figma designs** into **pixel-perfect**, **responsive interfaces**, reducing design-to-code time by **15%** and ensuring **cross-browser compatibility**.  
+- **SEO and Accessibility:** Enhanced SEO and accessibility, achieving **90+ scores in Lighthouse** and full **WCAG 2.1 compliance**, significantly boosting **user engagement** and **search visibility**.  
+- **State Management:** Improved state management using **Redux Toolkit**, cutting code complexity by **30%** and enhancing **asynchronous state handling**, leading to better **app performance**.  
+- **Comprehensive Testing:** Implemented and maintained **unit and integration testing** with **95% test coverage**, reducing **production bugs by 50%** and streamlining the **QA process**.  
+- **Issue Resolution:** Identified and resolved critical frontend issues, lowering **user-reported bugs by 40%** and significantly boosting **application stability**.  
+- **Documentation and Best Practices:** Authored internal best practices and guidelines, reducing **onboarding time for new developers by 30%** and promoting **consistent coding standards**.  
+- **Team Collaboration:** Actively contributed to **architecture planning** and **feature development**, fostering **team alignment** and **collaborative decision-making**.  
+
+---
+
+🔗 **Let’s build something great together!**  
+🚀 **Connect with me to explore opportunities and discuss cutting-edge frontend development.**  
+
 
 ## 🛠️ Technologies & Tools
 
