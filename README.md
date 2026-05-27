@@ -53,7 +53,7 @@ I specialize in turning complex product requirements into robust frontend system
 ### State Management
 <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=redux-toolkit&theme=light" />
+      <img src="https://skillicons.dev/icons?i=redux&theme=light" />
     </a>
 </p>
 
@@ -61,13 +61,13 @@ I specialize in turning complex product requirements into robust frontend system
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=reactquery,apollo,graphql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=apollo,graphql&theme=light" />
   </a>
 </p>
 
 ### UI & Styling
 <p>
-  <img src="https://skillicons.dev/icons?i=js,tailwind,sass,styledcomponents" />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents&theme=light" />
 </p>
 
 ### Tools
