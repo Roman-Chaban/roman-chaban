@@ -3,42 +3,57 @@
 # Roman Chaban
 
 Frontend Engineer specializing in React, Next.js, and TypeScript.
-Building scalable, high-performance web applications with a strong focus on architecture, usability, and clean engineering practices.
+
+Building scalable frontend systems with a focus on performance, architecture, and high-quality user experience.
+
+<br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=roman-chaban&style=flat&color=0e75b6" />
 
 </div>
 
 ---
 
-## About
+## 🔥 Activity & Consistency
 
-Frontend engineer focused on building modern web applications with clean architecture, strong performance, and excellent user experience.
-I enjoy turning complex product requirements into scalable frontend systems using React ecosystem best practices, maintainable code structure, and performance-driven development.
-
----
-
-## Core Skills
-
-- Scalable frontend architecture
-- React / Next.js application development
-- TypeScript-driven engineering
-- Performance optimization & Core Web Vitals
-- Responsive and accessible UI (WCAG)
-- State management & API integration
-- Component-driven development
-- Testing & code quality practices
-
----
-
-## Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=roman-chaban&theme=github-dark&hide_border=true" />
 </p>
 
-### Styling
+---
+
+## ⚡ Engineering Focus
+
+Frontend engineer focused on designing and building scalable, maintainable, and performance-driven web applications.
+
+I specialize in turning complex product requirements into robust frontend systems using modern React ecosystem patterns, with strong emphasis on architecture, code quality, and usability.
+
+---
+
+## 🧠 Core Strengths
+
+- Frontend architecture & scalable system design
+- React / Next.js application engineering
+- TypeScript-first development
+- Performance optimization (Core Web Vitals)
+- UI/UX engineering & responsive design
+- State management & API integration
+- Component-driven architecture
+- Testing & maintainable codebases
+
+---
+
+## 🛠 Tech Stack
+
+### Core
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux" />
+</p>
+
+### UI & Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=js,tailwind,sass,styledcomponents" />
 </p>
 
 ### Tools
@@ -48,41 +63,33 @@ I enjoy turning complex product requirements into scalable frontend systems usin
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Workflow CRM
-CRM system focused on workflow automation, project management, and scalable business processes.
+Scalable CRM system focused on workflow automation and modular frontend architecture.
 
 **Stack:** React, TypeScript, Redux Toolkit  
-🔗 https://github.com/roman-chaban/Workflow_CRM
+https://github.com/roman-chaban/Workflow_CRM
 
 ---
 
 ### DreamSpace Interiors
-Modern interior design platform built with performance-first architecture and responsive UI.
+Performance-focused Next.js application with modern UI and responsive design.
 
 **Stack:** Next.js, Styled-Components  
-🔗 https://dream-space-interiors.vercel.app/
+https://dream-space-interiors.vercel.app/
 
 ---
 
 ### iMarketplace
-Responsive marketplace platform with reusable architecture and optimized UX.
+Reusable component-based marketplace with optimized UX and architecture.
 
 **Stack:** React, TypeScript  
-🔗 https://roman-chaban.github.io/iMarketplace/
+https://roman-chaban.github.io/iMarketplace/
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=roman-chaban&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## Contact
+## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/chaban1001/  
 - Email: roman.chaban1001@gmail.com  
@@ -92,6 +99,6 @@ Responsive marketplace platform with reusable architecture and optimized UX.
 
 <div align="center">
 
-Open to frontend engineering opportunities and product-focused teams.
+🚀 Open to frontend engineering roles in product-driven and system-focused teams.
 
 </div>
