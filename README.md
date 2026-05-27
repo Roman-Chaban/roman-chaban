@@ -2,50 +2,46 @@
 
 # Roman Chaban
 
-Frontend Engineer specializing in React, Next.js, TypeScript, and scalable web applications.
-
-Building performant, accessible, and maintainable interfaces with strong focus on architecture, user experience, and modern frontend development.
+Frontend Engineer specializing in React, Next.js, and TypeScript.
+Building scalable, high-performance web applications with a strong focus on architecture, usability, and clean engineering practices.
 
 </div>
 
 ---
 
-## About Me
+## About
 
-Frontend developer focused on creating high-quality web applications with clean architecture and strong attention to performance, scalability, and usability.
+Frontend engineer focused on building modern web applications with clean architecture, strong performance, and excellent user experience.
+I enjoy turning complex product requirements into scalable frontend systems using React ecosystem best practices, maintainable code structure, and performance-driven development.
 
-I enjoy transforming complex product requirements into intuitive user experiences while maintaining maintainable codebases and modern engineering standards.
+---
 
-### Core Expertise
+## Core Skills
 
 - Scalable frontend architecture
-- React & Next.js applications
-- TypeScript-driven development
-- Responsive and accessible UI
-- Performance optimization
-- SEO & Lighthouse improvements
+- React / Next.js application development
+- TypeScript-driven engineering
+- Performance optimization & Core Web Vitals
+- Responsive and accessible UI (WCAG)
 - State management & API integration
 - Component-driven development
-- Testing and code quality
+- Testing & code quality practices
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux" />
 </p>
 
-### UI & Styling
-
+### Styling
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,materialui" />
 </p>
 
-### Tools & Ecosystem
-
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vite,webpack,jest,figma,postman,vscode" />
 </p>
@@ -55,75 +51,47 @@ I enjoy transforming complex product requirements into intuitive user experience
 ## Featured Projects
 
 ### Workflow CRM
+CRM system focused on workflow automation, project management, and scalable business processes.
 
-Customer relationship management platform focused on workflow automation, project management, and scalable business operations.
-
-**Stack:** React, TypeScript, Redux Toolkit
-
-🔗 Repository:  
-https://github.com/roman-chaban/Workflow_CRM
+**Stack:** React, TypeScript, Redux Toolkit  
+🔗 https://github.com/roman-chaban/Workflow_CRM
 
 ---
 
 ### DreamSpace Interiors
+Modern interior design platform built with performance-first architecture and responsive UI.
 
-Modern interior design platform built with performance-focused frontend architecture and responsive UI patterns.
-
-**Stack:** Next.js, Styled-Components
-
-🔗 Live Demo:  
-https://dream-space-interiors.vercel.app/
+**Stack:** Next.js, Styled-Components  
+🔗 https://dream-space-interiors.vercel.app/
 
 ---
 
 ### iMarketplace
+Responsive marketplace platform with reusable architecture and optimized UX.
 
-Marketplace application with responsive design, reusable component architecture, and optimized user experience.
-
-**Stack:** React, TypeScript
-
-🔗 Live Demo:  
-https://roman-chaban.github.io/iMarketplace/
+**Stack:** React, TypeScript  
+🔗 https://roman-chaban.github.io/iMarketplace/
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roman-chaban&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-chaban&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=roman-chaban&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## Currently Exploring
+## Contact
 
-- Advanced TypeScript patterns
-- Frontend architecture & scalability
-- Performance optimization in React
-- Server-side rendering with Next.js
-- Design systems & reusable UI patterns
-
----
-
-## Connect With Me
-
-- LinkedIn  
-  https://www.linkedin.com/in/chaban1001/
-
-- Email  
-  roman.chaban1001@gmail.com
-
-- GitHub  
-  https://github.com/roman-chaban
+- LinkedIn: https://www.linkedin.com/in/chaban1001/  
+- Email: roman.chaban1001@gmail.com  
+- GitHub: https://github.com/roman-chaban  
 
 ---
 
 <div align="center">
 
-Open to frontend engineering opportunities, product-focused teams, and interesting collaborations.
+Open to frontend engineering opportunities and product-focused teams.
 
 </div>
