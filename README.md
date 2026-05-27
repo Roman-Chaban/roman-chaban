@@ -6,16 +6,13 @@ Frontend Engineer specializing in React, Next.js, and TypeScript.
 
 Building scalable frontend systems with a focus on performance, architecture, and high-quality user experience.
 
-<br/>
-
-<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=roman-chaban&style=flat&color=0e75b6" />
 
 </div>
 
 ---
 
-## 🔥 Activity & Consistency
+## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=roman-chaban&theme=github-dark&hide_border=true" />
@@ -23,7 +20,7 @@ Building scalable frontend systems with a focus on performance, architecture, an
 
 ---
 
-## ⚡ Engineering Focus
+## Engineering Focus
 
 Frontend engineer focused on designing and building scalable, maintainable, and performance-driven web applications.
 
@@ -31,7 +28,7 @@ I specialize in turning complex product requirements into robust frontend system
 
 ---
 
-## 🧠 Core Strengths
+## Core Strengths
 
 - Frontend architecture & scalable system design
 - React / Next.js application engineering
@@ -46,9 +43,26 @@ I specialize in turning complex product requirements into robust frontend system
 
 ## 🛠 Tech Stack
 
-### Core
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js&theme=light" />
+  </a>
+</p>
+
+### State Management
+<p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=redux-toolkit&theme=light" />
+    </a>
+</p>
+
+### Data Fetching
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=reactquery,apollo,graphql&theme=light" />
+  </a>
 </p>
 
 ### UI & Styling
